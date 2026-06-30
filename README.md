@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Fabián Camilo Aguilera Rodríguez
+# ¡Hola! Soy Fabián Camilo Aguilera Rodríguez
 
 ## Backend Developer | Process Automation | Industrial Engineering
 
@@ -8,7 +8,7 @@ Actualmente me desempeño como **Jefe de Producción** en Creaciones Mariafer y 
 
 ---
 
-## 🚀 Tecnologías
+##  Tecnologías
 
 ### Backend
 - Python
@@ -33,18 +33,18 @@ Actualmente me desempeño como **Jefe de Producción** en Creaciones Mariafer y 
 
 ---
 
-## 📂 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🏭 Control Producción MVP
+###  Control Producción MVP
 Sistema para la gestión y seguimiento de procesos productivos mediante tecnologías backend.
 
-### 📦 Sistema de Inventario con Python
+###  Sistema de Inventario con Python
 Aplicación para automatizar la gestión de inventarios utilizando Python.
 
-### 🛒 Proyecto E-commerce
+###  Proyecto E-commerce
 Sitio web responsive desarrollado con HTML, CSS y JavaScript.
 
-### ☕ Infusión – Código Descafeinado
+###  Infusión – Código Descafeinado
 Landing Page enfocada en identidad visual y experiencia de usuario.
 
 ---
@@ -65,5 +65,5 @@ fcaguileraj7@gmail.com
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+ Gracias por visitar mi perfil.
 Siempre estoy abierto a aprender, colaborar y participar en nuevos proyectos de desarrollo de software.
